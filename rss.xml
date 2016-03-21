@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[helenyung]]></title>
         <description><![CDATA[helenyung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/helenyung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:01:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 11:52:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/helenyung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rewilding the arts ecosystem:A discussion paper on multidisciplinarity in the arts in Canada]]></title>
+            <description><![CDATA[<article><h1>Rewilding the arts ecosystem:A discussion paper on multidisciplinarity in the arts in Canada</h1><p>by Helen Yung, in collaboration with: Clea Minaker, Soraya Peerbaye and Marjan Verstappen. Prepared for the network of Canadian Public Arts Funders (CPAF) / July 2015</p></article>]]></description>
+            <link>https://thegrid.ai/helenyung/c1d5e7c9-d980-47f1-8a2f-de79e9df5574/index.html</link>
+            <guid isPermaLink="false">c1d5e7c9-d980-47f1-8a2f-de79e9df5574</guid>
+            <pubDate>Mon, 21 Mar 2016 11:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc2f62b-a968-4cd6-a9fa-491ec9570169.jpg">]]></description>
-            <link>undefinedthinking-about-a-lulu-lookbook/index.html</link>
+            <link>https://thegrid.ai/helenyung/thinking-about-a-lulu-lookbook/index.html</link>
             <guid isPermaLink="false">cefce799-db3f-415c-9709-6927776fa8c3</guid>
             <pubDate>Sun, 20 Mar 2016 22:00:34 GMT</pubDate>
         </item>
